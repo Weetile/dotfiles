@@ -17,4 +17,5 @@ Links will take you to the Arch Linux package/AUR. If you're using a different o
 - **Terminal Shell**: [zsh](https://archlinux.org/packages/extra/x86_64/zsh/) with [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | Edit theme in `.zshrc` to `ZSH_THEME="agnoster"`
 - **System Information Tool**: [neofetch](https://archlinux.org/packages/extra/any/neofetch/) or [pfetch](https://github.com/dylanaraps/pfetch) (for minimal)
 ## Screenshots
-![enter image description here](https://i.imgur.com/n8Ao1JM.png)
+![Minimal screenshot of desktop and menu](https://i.imgur.com/n8Ao1JM.png)
+![Screenshot of Dolphin and Konsole showing Neofetch](https://i.imgur.com/1KCWCrF.png)
