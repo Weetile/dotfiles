@@ -14,7 +14,7 @@ Links will take you to the Arch Linux package/AUR. If you're using a different o
 - **Plasma Application Launcher**: [OnzeMenu 11](https://store.kde.org/p/1545530/)
 - **Icons**: [Papirus-Dark](papirus-icon-theme) 
 - **Terminal Colours**: [Dracula](https://draculatheme.com/konsole) with transparent blurred background
-- **Terminal Shell**: [zsh](https://archlinux.org/packages/extra/x86_64/zsh/) with [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | Edit theme in `.zshrc` to `ZSH_THEME="agnoster"`
+- **Terminal Shell**: [zsh](https://archlinux.org/packages/extra/x86_64/zsh/) with [powerline10k](https://github.com/romkatv/powerlevel10k)
 - **System Information Tool**: [neofetch](https://archlinux.org/packages/extra/any/neofetch/) or [pfetch](https://github.com/dylanaraps/pfetch) (for minimal)
 ## Screenshots
 ![Minimal screenshot of desktop and menu](https://i.imgur.com/n8Ao1JM.png)
