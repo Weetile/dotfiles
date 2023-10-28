@@ -12,7 +12,7 @@ Links will take you to the Arch Linux package/AUR. If you're using a different o
 - **Plasma Window Decorations**: [Layan](https://store.kde.org/p/1325238)
 - **Plasma Splash Screen**: [QuarksSplashDark](https://store.kde.org/p/1304256/)
 - **Plasma Application Launcher**: [OnzeMenu 11](https://store.kde.org/p/1545530/)
-- **Icons**: [Papirus-Dark](papirus-icon-theme) 
+- **Icons**: [Papirus-Dark](https://archlinux.org/packages/extra/any/papirus-icon-theme/) 
 - **Terminal Colours**: [Dracula](https://draculatheme.com/konsole) with transparent blurred background
 - **Terminal Shell**: [zsh](https://archlinux.org/packages/extra/x86_64/zsh/) with [powerline10k](https://github.com/romkatv/powerlevel10k)
 - **System Information Tool**: [neofetch](https://archlinux.org/packages/extra/any/neofetch/) or [pfetch](https://github.com/dylanaraps/pfetch) (for minimal)
