@@ -13,10 +13,11 @@ Links will take you to the Arch Linux package/AUR. If you're using a different o
 - **Plasma Splash Screen**: [QuarksSplashDark](https://store.kde.org/p/1304256/)
 - **Plasma Application Launcher**: [OnzeMenu 11](https://store.kde.org/p/1545530/)
 - **Icons**: [Papirus-Dark](https://archlinux.org/packages/extra/any/papirus-icon-theme/) 
-- **Terminal Colours**: [Dracula](https://draculatheme.com/konsole) with transparent blurred background
+- **Terminal Colours**: [Catppuccin Mocha](https://github.com/catppuccin/konsole) with transparent blurred background
 - **Terminal Shell**: [zsh](https://archlinux.org/packages/extra/x86_64/zsh/) with [powerline10k](https://github.com/romkatv/powerlevel10k)
 - **System Information Tool**: [neofetch](https://archlinux.org/packages/extra/any/neofetch/) or [pfetch](https://github.com/dylanaraps/pfetch) (for minimal)
 - **Emojis**: [Twemoji](https://aur.archlinux.org/packages/ttf-twemoji)
+- **Text Editor**: [Neovim](https://archlinux.org/packages/extra/x86_64/neovim/) with [NvChad](https://nvchad.com/)
 ## Screenshots
 ![Minimal screenshot of desktop and menu](https://i.imgur.com/n8Ao1JM.png)
 ![Screenshot of Dolphin and Konsole showing Neofetch](https://i.imgur.com/1KCWCrF.png)
