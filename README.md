@@ -7,7 +7,7 @@ Links will take you to the Arch Linux package/AUR. If you're using a different o
 - **Application Style**: [Kvantum](https://archlinux.org/packages/extra/x86_64/kvantum/) with [Layan theme](https://store.kde.org/p/1325246/)
 - **Plasma Style**: [Layan](https://store.kde.org/p/1325241/)
 - **Desktop font**: [SF Pro Display/Rounded](https://aur.archlinux.org/packages/apple-fonts)
-- **Monospace font** (e.g: coding/terminal): [Monocraft](https://github.com/IdreesInc/Monocraft), [JetBrains Mono](https://archlinux.org/packages/extra/any/ttf-jetbrains-mono/)
+- **Monospace font** (e.g: coding/terminal): [JetBrains Mono NF](https://archlinux.org/packages/extra/any/ttf-jetbrains-mono-nerd/), [Monocraft NF](https://github.com/IdreesInc/Monocraft)
 - **Plasma Colours**: [Layan](https://store.kde.org/p/1325239/)
 - **Plasma Window Decorations**: [Layan](https://store.kde.org/p/1325238)
 - **Plasma Splash Screen**: [QuarksSplashDark](https://store.kde.org/p/1304256/)
